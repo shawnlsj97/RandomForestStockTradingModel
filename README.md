@@ -1,4 +1,4 @@
-# Random Forest Stock Trading Learner
+# Random Forest Stock Trading Model
 
 This project investigates the **in-sample and out-of-sample trading performance** of a manual strategy and a **Random Forest classification-based learner**, both built using three technical indicators:  
 - **Bollinger Bands**  
