@@ -1,0 +1,4 @@
+Metric	Manual Strategy	Benchmark
+Cumulative Return	0.301708	0.012325
+Standard Deviation	0.009913	0.017041
+Mean Daily Return	0.000572	0.000169

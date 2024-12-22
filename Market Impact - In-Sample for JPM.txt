@@ -1,0 +1,4 @@
+Market Impacts	Number of Trades	Cumulative Return	Average Daily Return	Standard Deviation of Daily Return	Sharpe Ratio
+0.000500	48	1.970698	0.002198	0.008456	4.126449
+0.005000	42	1.415721	0.001803	0.010127	2.825600
+0.050000	5	0.248740	0.000522	0.012740	0.650295
